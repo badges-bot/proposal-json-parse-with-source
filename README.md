@@ -1,5 +1,7 @@
 # JSON.parse source text access
 
+![Stage 2](https://badges.aleen42.com/src/tc39_3.svg)
+
 A proposal for extending `JSON.parse` behavior to grant reviver functions access to the input source text.
 
 [2018 September slides](https://docs.google.com/presentation/d/1PB0HCOxWZikFmTAqR5U2ZZjEiDV7NjhPN_-SK5NNG0w/edit?usp=sharing)
